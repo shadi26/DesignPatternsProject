@@ -1,10 +1,3 @@
-05/12/21 14:48:48 Scan Completed Successfully.
-05/12/21 17:07:39 Scan Completed Successfully.
-05/12/21 17:10:30 Scan Completed Successfully.
-06/12/21 18:12:18 Scan Completed Successfully.
-06/12/21 18:12:34 Scan Completed Successfully.
-06/12/21 18:14:16 Scan Completed Successfully.
-06/12/21 18:14:32 Scan Completed Successfully.
 29/01/25 13:48:08 Scan Failed. Exception..
 29/01/25 13:52:37 Scan Failed. Exception..
 29/01/25 14:07:04 Scan Failed. Exception..
